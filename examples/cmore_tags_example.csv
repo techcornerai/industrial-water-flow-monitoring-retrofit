@@ -1,0 +1,5 @@
+ProtocolID,DeviceName,TagName,DataType,DataCount,Retentive,Address,ArrayStart,ArrayEnd
+100,DL262,Flow_Point_01,Discrete,1,False,X0,0,0
+100,DL262,Flow_Point_02,Discrete,1,False,X1,0,0
+100,DL262,Flow_Point_03,Discrete,1,False,X2,0,0
+100,DL262,Flow_Point_04,Discrete,1,False,X3,0,0
