@@ -1,0 +1,17 @@
+# Production / proprietary project files intentionally excluded
+*.eap*
+*.rss
+*.zip
+*.bak
+*.pdf
+*.docx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
